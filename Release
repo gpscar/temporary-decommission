@@ -1,1 +1,9 @@
 Origin: George Sourial’s repo
+Label: George Sourial's repo
+Suite: stable
+Version: 0.1
+Codename: giraffe
+Architectures: iphoneos-arm
+Components: main
+Description: George Sourial's repo
+MD5Sum: 
